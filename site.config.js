@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'Xiaojun',
-  title: 'Xiaojun Zhou',
-  description: 'Front-End Developer',
+  name: 'JIeJaitt',
+  title: 'JIeJaitt Blog',
+  description: 'Backend-End Developer',
   avatar: '/avatar.jpg',
   logo: '/logo.svg',
   siteUrl: 'https://www.xiaojun.im',
